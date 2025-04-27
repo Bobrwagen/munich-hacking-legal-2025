@@ -1,0 +1,88 @@
+1. **Introduction and Parties**  
+This Non-Disclosure and Confidentiality Agreement (the “Agreement”) is entered into __________________ (the “Effective Date”) by and between Quantum Innovations Inc., a corporation organized and existing under the laws of the State of Washington, with its principal office located at 7890 Maple Avenue, Suite 101, Seattle, WA 98101, USA, represented by its CEO, Emily Harper (“Disclosing Party”), and ________________ (“Receiving Party”), also individually referred to as the “Party”, and collectively the “Parties”.
+
+2. **Purpose of the Agreement**  
+The Parties are interested in exploring a potential business opportunity (the “Opportunity”). In order to adequately evaluate whether the Parties would like to pursue the Opportunity, it is necessary for both Parties to exchange certain confidential information.
+
+3. **Consideration**  
+IN CONSIDERATION OF disclosing and receiving confidential information, the Parties agree as follows:
+
+4. **Definition of Confidential Information**  
+Confidential Information. The confidential information (“Confidential Information”) includes any information that is only known by the Disclosing Party, and not known by the general public at the time it is disclosed, whether tangible or intangible, and through whatever means it is disclosed.
+
+5. **Exclusions from Confidential Information**  
+Confidential Information does not include information that:  
+- The Receiving Party lawfully gained before the Disclosing Party actually disclosed it;  
+- Is disclosed to the Receiving Party by a third party who is not bound by a confidentiality agreement;  
+- Becomes available to the general public by no fault of the Receiving Party; or  
+- Is required by law to be disclosed.
+
+6. **Use of Confidential Information**  
+During the course of this Agreement, the Parties will have access to and learn of each others’ Confidential Information, including trade secrets, industry knowledge, and other confidential information.  
+- The Parties will not share any of this proprietary information at any time.  
+- The Parties also will not use any of this proprietary information for either Party’s personal/business benefit at any time.  
+- This section remains in full force and effect even after termination of the Parties’ relationship by its natural termination or early termination by either Party.
+
+7. **Disclosure to Personnel**  
+The Receiving Party may disclose the Confidential Information to its personnel on an as-needed basis.  
+- The personnel must be informed that the Confidential Information is confidential and the personnel must agree to be bound by the terms of this Agreement.  
+- The Receiving Party is liable for any breach of this Agreement by their personnel.
+
+8. **Notification of Loss or Disclosure**  
+In the event a Party loses Confidential Information or inadvertently discloses Confidential Information, that Party must notify the other Party within twenty-four (24) hours.  
+- That Party must also take any and all steps necessary to recover the Confidential Information and prevent further unauthorized use.
+
+9. **Legal Disclosure**  
+In the event a Party is required by law to disclose Confidential Information, that Party must notify the other Party of the legal requirement to disclose within three (3) business days of learning of the requirement.
+
+10. **Notices**  
+Notices must be made in accordance with Section 9 of this Agreement.
+
+11. **Ownership and Title**  
+Nothing in this Agreement will convey a right, title, interest, or license in the Confidential Information to the Receiving Party.  
+- The Confidential Information will remain the exclusive property of the Disclosing Party.
+
+12. **Return of Confidential Information**  
+Upon termination of this Agreement, the Receiving Party must return all tangible materials it has that contain the Confidential Information it received, including all electronic and hard copies.  
+- This includes, but is not limited to, any notes, memos, drawings, summaries, excerpts and anything else derived from the Confidential Information.
+
+13. **Term and Termination**  
+This Agreement shall commence upon the Effective Date as stated above and continue until __________________.  
+- Either Party may end this Agreement at any time by providing written notice to the other Party.  
+- The Parties’ obligation to maintain confidentiality of all Confidential Information received during the term of this Agreement will remain in effect indefinitely.
+
+14. **Remedies**  
+The Parties agree the Confidential Information is unique in nature and money damages will not adequately remedy the irreparable injury breach of this Agreement may cause the injured Party.  
+- The injured Party is entitled to seek injunctive relief, as well as any other remedies that are available in law and equity.
+
+15. **Relationship of the Parties**  
+- No Binding Agreement to Pursue Opportunity: The Parties agree they are exploring a potential Opportunity and sharing their Confidential Information is not a legal obligation to pursue the Opportunity.  
+- Either Party is free to terminate discussions or negotiations related to the Opportunity at any time.  
+- No Exclusivity: The Parties understand this Agreement is not an exclusive arrangement.  
+- The Parties agree they are free to enter into other similar agreements with other parties.  
+- Independent Contractors: The Parties to this Agreement are independent contractors. Neither Party is an agent, representative, partner, or employee of the other Party.
+
+16. **General Provisions**  
+- Assignment: The Parties may not assign their rights and/or obligations under this Agreement.  
+- Choice of Law: This Agreement will be interpreted based on the laws of the State of Washington, USA regardless of any conflict of law issues that may arise.  
+- Dispute Resolution: The Parties agree that any dispute arising from this Agreement will be resolved at a court of competent jurisdiction located in the State of Washington, USA.  
+- Complete Contract: This Agreement constitutes the Parties entire understanding of their rights and obligations.  
+- This Agreement supersedes any other written or verbal communications between the Parties.  
+- Any subsequent changes to this Agreement must be made in writing and signed by both Parties.  
+- Severability: In the event any provision of this Agreement is deemed invalid or unenforceable, in whole or in part, that part shall be severed from the remainder of the Agreement and all other provisions should continue in full force and effect as valid and enforceable.  
+- Waiver: Neither Party can waive any provision of this Agreement, or any rights or obligations under this Agreement, unless agreed to in writing.  
+- Notices: All notices under this Agreement must be sent by email with return receipt requested or certified or registered mail with return receipt requested.  
+- Notices should be sent as specified in the contact details provided.
+
+17. **Signatures**  
+The Parties agree to the terms and conditions set forth above as demonstrated by their signatures as follows:  
+- Name: ______________________________  
+- Signed: _____________________________________  
+- Name: _____________________________________  
+- Date: _____________________________________
+
+18. **Additional Signatures**  
+- Name: ______________________________  
+- Signed: _____________________________________  
+- Name: _____________________________________  
+- Date: _____________________________________
